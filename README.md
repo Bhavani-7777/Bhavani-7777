@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Chelliboina Bhavani
 
-<!--
-**Bhavani-7777/Bhavani-7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Full Stack Developer  
+☁️ Interested in Cloud Computing (AWS, Azure)  
+🌱 Currently learning Backend Development & APIs  
+📍 India | Open to Remote Opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Programming: Python, Java, C  
+- Web: HTML, CSS, JavaScript  
+- Cloud: AWS, Azure  
+- Tools: Git, GitHub, Linux  
+
+---
+
+## 📂 Projects
+
+### 🔹 Job Application Tracker
+- Full-stack web app using Flask & SQLite  
+- Tracks job applications and statuses  
+- GitHub Repo: (add link)
+
+### 🔹 Cloud File Upload System
+- AWS S3 based file storage system  
+- Built using Flask & boto3  
+- GitHub Repo: (add link)
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: https://linkedin.com/in/bhavani-chelliboina-3ba25a364  
